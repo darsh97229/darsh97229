@@ -11,4 +11,4 @@
 
 💻 In my free time, I love contributing to open-source projects and experimenting with new technologies. You can find some of my latest work on my Github profile.
 
-📫 Feel free to reach out to me at career.darsh@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/patel-darsh/]) if you'd like to collaborate or discuss any interesting projects.
+📫 Feel free to reach out to me at career.darsh@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/patel-darsh/) if you'd like to collaborate or discuss any interesting projects.
