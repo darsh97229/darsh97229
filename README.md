@@ -1,4 +1,4 @@
-👋 Hi there! I'm Darsh, a software engineer and machine learning engineer with 3 years of experience in building cutting-edge applications and AI-powered solutions.
+👋 Hi there! I'm Darsh, a software engineer and machine learning engineer with experience building cutting-edge applications and AI-powered solutions.
 
 🚀 I'm passionate about leveraging the latest technologies and methodologies to solve complex problems and improve people's lives. My expertise includes:
 
@@ -8,6 +8,8 @@
 - Data analysis and visualization
 - Web development using modern frameworks such as React and Vue.js
 - Cloud computing platforms like AWS, Azure, and Google Cloud
+- Microservice development
+- API development (REST & GraphQL)
 
 💻 In my free time, I love contributing to open-source projects and experimenting with new technologies. You can find some of my latest work on my Github profile.
 
